@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mapping Photos Assignment</string>
+    <string name="add_new_menu">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="save">Save</string>
+    <string name="main_screen_title">Map Photo</string>
+    <string name="form_screen_title">Form Screen</string>
+    <string name="view_screen_title">View Screen</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBGEo82SSPQwXTGtk8QGCFuBnc364D_mRo
+    </string>
+
+</resources>

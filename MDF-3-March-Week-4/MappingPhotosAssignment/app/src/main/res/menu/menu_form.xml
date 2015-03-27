@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.edavila.mapping.photos.android.fullsail.FormActivity">
+    <item
+        android:id="@+id/menu_take_picture"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/take_picture"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_save"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/save"
+        app:showAsAction="ifRoom"/>
+</menu>
