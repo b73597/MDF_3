@@ -1,2 +1,0 @@
-MyApplication to MappingPhotosAssignment
-Package name should be com.edavila.mapping.photos.android.fullsail
